@@ -1,0 +1,10 @@
+cardgame
+cardgame.blackjack
+cardgame.blackjack.gui
+cardgame.blackjack.gui.factory
+cardgame.blackjack.strategy
+cardgame.chip
+cardgame.observer
+kwing
+kwing.awt
+kwing.swing
