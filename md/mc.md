@@ -84,3 +84,27 @@
 -   essentials.back.into.world_the_end
 
 https://essinfo.xeya.me/index.php?page=permissions
+
+### multiverse
+#### core
+-   multiverse.access.world
+-   multiverse.access.world_nether
+-   multiverse.access.world_the_end
+-   multiverse.exempt.world
+-   multiverse.exempt.world_nether
+-   multiverse.exempt.world_the_end
+-   multiverse.teleport.self.p
+-   multiverse.core.info
+-   multiverse.core.list.environments
+-   multiverse.core.list.who
+-   multiverse.core.list.worlds
+#### portals
+-   multiverse.portal.access.*
+-   multiverse.portal.exempt.*
+### chairs
+-   chairs.sit
+-   chairs.sit.health
+### veinminer
+-   veinminer.veinmine.*
+-   veinminer.blocklist.*
+-   veinminer.toggle
